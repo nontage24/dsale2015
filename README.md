@@ -1,6 +1,5 @@
 
-DSale 2015 (Point of sale: POS) Open Source
-Yii 2 Advanced Project Template
+DSale 2015 (Point of sale: POS) Open Source 100%
 ===============================
 
 Yii 2 Advanced Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for

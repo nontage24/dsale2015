@@ -1,3 +1,5 @@
+
+DSale 2015 (Point of sale: POS) Open Source
 Yii 2 Advanced Project Template
 ===============================
 
